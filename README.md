@@ -1,7 +1,7 @@
-# cs50_final_project
+# CS50_final_project
 Final project for CS50 introduction to programming with python
 
-# CS50P Project Gallery Scrapper
+## CS50P Project Gallery Scrapper
 #### Video Demo: https://youtu.be/P4FYmN1oW9Q
 #### Description: While trying to do my Final Project I was interested in looking at other students project as well, so I visited the Project gallery, but the web page was not working properly and trying to keep record of the projects was also hard, so I thought may be I should solve this and created by final project a web scrapper. My project is a simple Web Scrapper that scrapes the CS50p project gallery page and provides the details of every listed projects and also saves the output is text or spreadsheet form as specified to command-line arguments
 
